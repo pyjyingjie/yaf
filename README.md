@@ -144,7 +144,7 @@ The view script for default controller and default action is in the application/
 ```php
 <html>
  <head>
-   <title>Hello World</title>
+   <title>Hello World! Best for all!</title>
  </head>
  <body>
    <?php echo $content; ?>
